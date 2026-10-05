@@ -28,6 +28,5 @@ A practical application that transforms food-label information into structured a
 
 ## Currently
 
-- Expanding my portfolio through practical business and quality-focused analytics projects
-- Expanding my portfolio through SQL and Python analytics projects
+- Building practical business and quality-focused analytics projects using Power BI, SQL, and Python
 - Open to Power BI and Data Analyst opportunities in Jordan and remote roles
