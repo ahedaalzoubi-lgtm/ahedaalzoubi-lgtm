@@ -1,6 +1,6 @@
 # Hi, I'm Ahed Alzoubi 👋
 
-I am a PL-300-certified Power BI and data analytics professional based in Amman, Jordan. I build analytical solutions using Power BI, SQL, DAX, Power Query, and Python.
+I am a Microsoft Certified: Power BI Data Analyst Associate (PL-300) based in Amman, Jordan. I build analytical solutions using Power BI, SQL, DAX, Power Query, and Python.
 
 My background in quality assurance and food safety helps me approach data with a strong focus on accuracy, validation, operational performance, and practical business insights.
 
@@ -29,5 +29,5 @@ A practical application that transforms food-label information into structured a
 ## Currently
 
 - Expanding my portfolio through practical business and quality-focused analytics projects
-- Strengthening my SQL and Python skills
-- Open to entry-level Power BI and Data Analyst opportunities in Jordan and remote roles
+- Expanding my portfolio through SQL and Python analytics projects
+- Open to Power BI and Data Analyst opportunities in Jordan and remote roles
